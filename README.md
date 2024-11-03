@@ -1,4 +1,4 @@
-# NCWIT-Projects
+# My-Projects
 
 ## A Collection of My Nutrition and Technology Projects
 
