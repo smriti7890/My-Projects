@@ -24,7 +24,7 @@ NourishNow is an educational app that breaks down complex nutrition concepts int
 - Interactive quizzes to test knowledge
 - Personalized nutrition suggestions based on quiz results
 
-[Link to NourishNow Code](NourishNow/src)  
+[Link to NourishNow Code](NourishNow.py)  
 
 #### Grocerify App
 
