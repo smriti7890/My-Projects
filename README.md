@@ -12,7 +12,7 @@ Hi! I'm Smriti Mehta, a high school student passionate about using technology to
 
 SIMS is a comprehensive inventory management solution designed for school cafeterias. It aims to improve nutrition quality by optimizing food inventory, reducing waste, and making healthier options more accessible.
 
-[Link to SIMS.md for more details]
+[SIMS Code](SIMS.py)
 
 ### NourishNow App
 
