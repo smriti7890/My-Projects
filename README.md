@@ -1,4 +1,4 @@
-# My-Projects
+# My Projects
 
 ## A Collection of My Nutrition and Technology Projects
 
@@ -32,7 +32,7 @@ Grocerify is an IoT-based app that works with smart fridges to track expiration 
 - Integration with smart fridge technology
 - Expiration tracking and recipe suggestions
 
-[Link to Grocerify Code](Grocerify/src)  
+[Link to Grocerify Code](Grocerify/py)  
 
 ### How to Contribute
 
